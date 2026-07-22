@@ -1,6 +1,15 @@
-#(Original repo from Josh012006)
-#(My comment) :
-#I want to create a nanorobot that go in a humain body (the nanorobot is in a medical pill) and he kill all viruses and microbes in the body.The nanorobot is then flushed down the toilet😂👍
+Original repo from @Josh012006
+
+(My comment) :
+
+I want to create a nanorobot that go in a humain body (the nanorobot is in a medical pill) and he kill all viruses and microbes in the body.The nanorobot is then flushed down the toilet😂👍
+
+So I search a lot of project about nanorobot to help me.And this repo is one of the best that I found. 👍
+
+This repo is going to be use for the path the nanorobot will take through the human body (to detect obstacles, etc.). This is one of the most important aspects for a medical nanorobot.
+
+(The next text is write by @Josh012006 and not @barannikovandrei.)
+
 # The agent's behavior over different difficulty levels
 <p align="center">
   <img src="public/demo_easy.gif" alt="Demo">
