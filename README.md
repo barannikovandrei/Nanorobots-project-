@@ -1,6 +1,6 @@
 Original repo from @Josh012006
 
-(My comment) :
+(Andreï Barannikov's comment) :
 
 I want to create a nanorobot that go in a humain body (the nanorobot is in a medical pill) and he kill all viruses and microbes in the body.The nanorobot is then flushed down the toilet😂👍
 
